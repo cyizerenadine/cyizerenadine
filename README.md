@@ -1,14 +1,12 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Nadine! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I am a passionate data scientist with Msc. in Computational Engineering from LUT and Data Science from AIMS. Driven by a curiosity for technology and a commitment to solving real-world problems, my journey involves deepening my expertise in AI, particularly in computer vision and data science, while sharing my insights and contributions with the broader research community.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- 🔭 I'm currently working as a remote data scientist at LadyAgri Impact Investment Hub and currently pursuing my master's degree in Financial Engineering
+- 📝 I contribute to impactful projects, developing data-driven solutions and collaborating on research initiatives.
+- 🌐 Proud member of the [Black in AI](https://blackinai.github.io/#/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
@@ -16,16 +14,16 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,r,anaconda,matlab,mysql,arduino)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Bridging Finance and AI for advanced financial analysis.
+  -Learning machine learning techniques for financial data prediction.
+  -Exploring AI-driven risk assessment tools.
+  -Studying algorithms for automated financial decision-making.
+  -Analyzing the impact of AI on financial markets.
+  -Integrating AI into financial modeling and forecasting.
 
  ## 🏆 Achievements
 
