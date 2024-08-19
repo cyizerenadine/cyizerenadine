@@ -19,11 +19,12 @@ I am a passionate data scientist with Msc. in Computational Engineering from LUT
 ## 🌱 Currently Exploring
 
 - 🚀 Bridging Finance and AI for advanced financial analysis.
-  -Learning machine learning techniques for financial data prediction.
+    -Learning machine learning techniques for financial data prediction.
   -Exploring AI-driven risk assessment tools.
   -Studying algorithms for automated financial decision-making.
   -Analyzing the impact of AI on financial markets.
   -Integrating AI into financial modeling and forecasting.
+
 
  ## 🏆 Achievements
 
