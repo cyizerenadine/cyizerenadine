@@ -1,16 +1,17 @@
 # Hi, I'm Nadine! 👋
 
-I am a passionate data scientist with Msc. in Computational Engineering from LUT and Data Science from AIMS. Driven by a curiosity for technology and a commitment to solving real-world problems, my journey involves deepening my expertise in AI, particularly in computer vision and data science, while sharing my insights and contributions with the broader research community.
+I am a passionate data scientist with Msc. in Computational Engineering from LUT and Msc. in Data Science from AIMS. Driven by a curiosity for technology and a commitment to solving real-world problems, my journey involves deepening my expertise in AI and Finance while sharing my insights and contributions with the broader research community.
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a remote data scientist at LadyAgri Impact Investment Hub and currently pursuing my master's degree in Financial Engineering
+- 🔭 I'm currently working as a remote data scientist at [LadyAgri Impact Investment Hub](https://www.lady-agri.org/) and currently pursuing my remote master's degree in Financial Engineering at WQU
 - 📝 I contribute to impactful projects, developing data-driven solutions and collaborating on research initiatives.
 - 🌐 Proud member of the [Black in AI](https://blackinai.github.io/#/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- ✍️ I am aiming to gain more knowledge about Cloud computing, Financial Education and AI.
+- ⚡ Fun fact: Podcasts, Music and Networking.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+## My Project Pages
+- [The Economic Power of Ending Child Labor: A case study from Cote d'Ivoire](https://sites.google.com/view/benefit-eliminating-childlabor/home)
 
 
 ## Tech Stack
@@ -28,29 +29,11 @@ I am a passionate data scientist with Msc. in Computational Engineering from LUT
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+- 🌟 Completed AfricaBuildsAI Hackathon by Ishango.ai - Contributed to projects and celebrated the spirit of collaboration.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [linkedin](https://www.linkedin.com/in/cyizere-bisanukuri-nadine/)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+Thanks for visiting! Let's connect and dive into the exciting world where finance meets AI. 🚀
 
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-In the above content, 
